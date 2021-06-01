@@ -1,0 +1,57 @@
+.displayFlex{
+    display: flex;
+}
+.flexDirectionC{
+    flex-direction: column;
+}
+.displayJustifyContentC
+{
+    justify-content: center;
+}
+.displayJustifyContentSpaceB
+{
+    justify-content: space-between;
+}
+.alignContent{
+    align-content: center;
+}
+.alignItemsE{
+    align-items: flex-end;
+}
+.justifyItems{
+    justify-items: center;
+}
+.alignSelfE{
+    align-self: end;
+}
+.alignSelfC{
+    align-self: center;
+}
+.flexWrap{
+    flex-wrap: wrap;
+}
+
+.floatRight{
+    float: right;
+}
+
+.card{
+    margin: 20px;
+    width: 100px;
+
+}
+.img{
+    width: 100px;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.date, .url, .value{
+    padding: 3px;
+    width:150px;
+    overflow-wrap: break-word;
+}
+.input{
+
+}
